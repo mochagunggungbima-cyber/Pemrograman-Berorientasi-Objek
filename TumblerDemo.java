@@ -7,7 +7,7 @@ public class TumblerDemo {
         t1.kapasitas = 750;
         t1.bahan = "Stainless Steel";
         t1.suhuMinuman = 5;
-
+        
         System.out.println("=== OBJEK TUMBLER 1 ===");
         t1.displayInfo();
         t1.membukaTutup();
